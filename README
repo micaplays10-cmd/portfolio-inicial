@@ -1,0 +1,70 @@
+# Portfolio Inicial
+
+Portfólio pessoal desenvolvido para apresentar informações sobre mim, meus projetos, habilidades e formas de contato.
+
+## Visão geral
+
+Este projeto foi criado como uma base inicial para um portfólio online, com foco em:
+
+- apresentação pessoal;
+- seção de experiências e habilidades;
+- destaque para projetos desenvolvidos;
+- informações de contato;
+- layout limpo e responsivo.
+
+## Tecnologias
+
+- HTML
+- CSS
+- JavaScript
+- (Opcional: framework ou biblioteca, caso seja adicionado no futuro)
+
+## Estrutura do projeto
+
+```text
+portfolio-inicial/
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── assets/
+│   └── imagens/
+├── README.md
+└── LICENSE
+```
+
+## Como executar
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/seu-usuario/portfolio-inicial.git
+```
+
+2. Acesse a pasta do projeto:
+
+```bash
+cd portfolio-inicial
+```
+
+3. Abra o arquivo `index.html` no navegador.
+
+Ou, se preferir, utilize um servidor local simples, como o Live Server em VS Code.
+
+## Personalização
+
+Para adaptar o projeto ao seu perfil:
+
+- edite o conteúdo em `index.html`;
+- ajuste os estilos em `css/style.css`;
+- adicione ou remova seções conforme sua necessidade;
+- substitua imagens e textos por seus dados pessoais.
+
+## Contato
+
+Se quiser entrar em contato, utilize os canais disponíveis na página do portfolio ou envie uma mensagem por e-mail.
+
+## Licença
+
+Este projeto pode ser usado como base para estudos e desenvolvimento pessoal. Caso queira reutilizá-lo comercialmente, verifique as condições do licenciamento adotado.
